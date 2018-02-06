@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.header
+{
+    min-height: 10vh;
+}
+.logo
+{
+    background-image: url('./Images/logo.png');
+    height: 10vh;
+    background-repeat:no-repeat;
+    width: 50px;    
+}

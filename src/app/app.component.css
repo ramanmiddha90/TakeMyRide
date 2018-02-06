@@ -1,0 +1,8 @@
+.search-component
+{
+    background-image: url('../Images/homeblock_main_desktop.jpg');
+    /* background-image: URL("../../src/Image/homeblock_main_desktop.jpg"); */
+   
+    min-height: 80vh;
+     height: auto;
+}
